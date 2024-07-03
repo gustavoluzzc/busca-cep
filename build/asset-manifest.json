@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.fcba5ba2.css",
-    "main.js": "/react-gh-pages/static/js/main.0f9086b6.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.fcba5ba2.css.map": "/react-gh-pages/static/css/main.fcba5ba2.css.map",
-    "main.0f9086b6.js.map": "/react-gh-pages/static/js/main.0f9086b6.js.map"
+    "main.css": "/busca-cep/static/css/main.fcba5ba2.css",
+    "main.js": "/busca-cep/static/js/main.0f9086b6.js",
+    "index.html": "/busca-cep/index.html",
+    "main.fcba5ba2.css.map": "/busca-cep/static/css/main.fcba5ba2.css.map",
+    "main.0f9086b6.js.map": "/busca-cep/static/js/main.0f9086b6.js.map"
   },
   "entrypoints": [
     "static/css/main.fcba5ba2.css",
