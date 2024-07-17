@@ -29,7 +29,7 @@ function App() {
       <h1 className="title">BUSCADOR DE CEP</h1>
       
       <div className="container-input">
-        <input type="text"
+        <input maxLength="8" type="text"
         placeholder="Digite seu CEP"
         value={input}
         onChange={(e) => setInput(e.target.value) }> 
