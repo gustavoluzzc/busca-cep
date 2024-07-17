@@ -9,3 +9,14 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+document.addEventListener("keypress", function(e) {
+  if(e.key === "Enter") {
+    
+    const btn = document.querySelector(".button-search");
+
+    btn.click();
+
+    }
+
+});

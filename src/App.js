@@ -1,6 +1,7 @@
 import "./styles.css";
 import { useState } from "react";
 import api from "./services/api";
+import index from "./index";
 
 function App() {
   
